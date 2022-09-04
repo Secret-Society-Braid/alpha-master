@@ -28,6 +28,7 @@ Since the application as it is lacks a little originality, I added a few functio
 ## Download
 
 Please select the version you want from [Releases](https://github.com/Secret-Society-Braid/alpha-master/Releases) as you can see the right of this page.
+Your files will be downloaded via DropBox.
 The app that contains **Portable** in the name will be used without installing.
 But generally, Please download the app that contains **Setup** in the name.
 

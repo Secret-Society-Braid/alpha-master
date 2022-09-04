@@ -27,6 +27,7 @@ English Version of README is available [here](../README.md).
 ## ダウンロード
 
 リポジトリ右の「[Releases](https://github.com/Secret-Society-Braid/alpha-master/releases)」からダウンロードしたバージョンをお選びください
+ダウンロードはDropBoxからになります。
 名前に「Portable」とついている物はインストールなしですぐ開くことができます。
 特に問題が無ければ、「Setup」とついている物をダウンロードすることをおすすめします。
 
