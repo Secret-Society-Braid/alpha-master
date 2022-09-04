@@ -17,6 +17,11 @@ const createWindow = () => {
     },
   });
 
+// open dev tool if env is development
+  if(process.env.NODE_ENV === 'development') {
+    mainWindow.webContents.openDevTools();
+  }
+  
   // and load the index.html of the app.
   mainWindow.loadFile(path.join(__dirname, 'index.html'));
 };
